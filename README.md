@@ -24,11 +24,11 @@ Aan het einde van ieder hoofdstuk staat een link om door te gaan naar het volgen
 
 ## Oefeningen
 
-* 1 [Aanmaken VM](https://github.com/xanvierb/radboud-linux/tree/master/aamaken_vm)
-* 2 [Ubuntu installeren](https://github.com/xanvierb/radboud-linux/tree/master/install_ubuntu)
-* 3 [Eerste kennismaking met Ubuntu](https://github.com/xanvierb/radboud-linux/tree/master/kennismaking)
-* 4 [Gebruikers en rechten](https://github.com/xanvierb/radboud-linux/tree/master/users)
-* 5 [Snap](https://github.com/xanvierb/radboud-linux/tree/master/snap)
-* 6 [Play On Linux](https://github.com/xanvierb/radboud-linux/tree/master/playonlinux)
-* 7 [Desktop Environment](https://github.com/xanvierb/radboud-linux/tree/master/desktopenv)
-* 8 [Webserver](https://github.com/xanvierb/radboud-linux/tree/master/webserver)
+* 1 [Aanmaken VM](/tree/master/aamaken_vm)
+* 2 [Ubuntu installeren](/tree/master/install_ubuntu)
+* 3 [Eerste kennismaking met Ubuntu](/tree/master/kennismaking)
+* 4 [Gebruikers en rechten](/tree/master/users)
+* 5 [Snap](/tree/master/snap)
+* 6 [Play On Linux](/tree/master/playonlinux)
+* 7 [Desktop Environment](/tree/master/desktopenv)
+* 8 [Webserver](/tree/master/webserver)
