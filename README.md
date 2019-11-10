@@ -28,7 +28,7 @@ Aan het einde van ieder hoofdstuk staat een link om door te gaan naar het volgen
 * 2 [Ubuntu installeren](/install_ubuntu)
 * 3 [Eerste kennismaking met Ubuntu](/kennismaking)
 * 4 [Gebruikers en rechten](/users)
-* 5 [Snap]/snap)
+* 5 [Snap](/snap)
 * 6 [Play On Linux](/playonlinux)
 * 7 [Desktop Environment](/desktopenv)
 * 8 [Webserver](/webserver)
