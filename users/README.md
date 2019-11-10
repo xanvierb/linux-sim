@@ -34,5 +34,7 @@ De commando's die je nodig hebt (naast de commando's die we al hebben behandeld)
 
 Je kunt gebruik maken van een [chmod calculator](https://chmod-calculator.com/)
 
+>  :tomato: Ik ontvang graag feedback over deze sessie, je kunt het hier achterlaten: https://forms.gle/w3CG84JcDLm22fAT7
+
 :thumbsup: Volgende hoofdstuk [Snap](../snap/) :fast_forward:
 

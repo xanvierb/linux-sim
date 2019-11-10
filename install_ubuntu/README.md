@@ -32,4 +32,6 @@ Als eerste moeten we zorgen dat de gedownloade ISO wordt herkend als een DVD in 
 
 - Klik een aantal keer op `next`, en uiteindelijk kom je op de desktop van de vers-geïnstalleerde Ubuntu 18.04.1.
 
+>  :tomato: Ik ontvang graag feedback over deze sessie, je kunt het hier achterlaten: https://forms.gle/w3CG84JcDLm22fAT7
+
 :thumbsup: Volgende hoofdstuk [Eerste kennismaking met Ubuntu](../kennismaking/) :fast_forward:

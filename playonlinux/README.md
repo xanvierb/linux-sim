@@ -13,5 +13,7 @@ Het is vrij gebruiksonvriendelijk om dit te doen via de command line. Play-On-Li
 - installeer een non-commercial, non-testing game
 - Probeer het uit.
 
+>  :tomato: Ik ontvang graag feedback over deze sessie, je kunt het hier achterlaten: https://forms.gle/w3CG84JcDLm22fAT7
+
 :thumbsup: Volgende hoofdstuk [Desktop Environment](../desktopenv/) :fast_forward:
 

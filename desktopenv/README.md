@@ -20,4 +20,6 @@ Herstart nu de VM.
 
 Zoals je ziet, ziet alles er nu anders uit. Als het goed is, performed dit ook beter dan Gnome 3 omdat het veel minder resources gebruikt.
 
+>  :tomato: Ik ontvang graag feedback over deze sessie, je kunt het hier achterlaten: https://forms.gle/w3CG84JcDLm22fAT7
+
 :thumbsup: Volgende hoofdstuk [Webserver](../webserver/) :fast_forward:

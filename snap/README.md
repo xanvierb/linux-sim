@@ -11,5 +11,7 @@ Dit is niet erg gebruiksvriendelijk en Snap lost dit probleem op. Op de website 
 
 Deze applicatie wordt gedraaid met WINE, een emulator voor Windows Applicaties. We gaan over dit onderwerp verder in het volgende hoofdstuk.
 
+>  :tomato: Ik ontvang graag feedback over deze sessie, je kunt het hier achterlaten: https://forms.gle/w3CG84JcDLm22fAT7
+
 :thumbsup: Volgende hoofdstuk [Play On Linux](../playonlinux/) :fast_forward:
 

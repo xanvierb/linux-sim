@@ -23,4 +23,4 @@ Dit is alweer de laatste opdracht in deze reeks. Deze opdracht is wat meer uitzo
 
 ```
 
->  :tomato: Ik ontvang graag feedback over deze sessie, je kunt het hier achterlaten: https://goo.gl/forms/4wmUrbcLVusNVlOP2
+>  :tomato: Ik ontvang graag feedback over deze sessie, je kunt het hier achterlaten: https://forms.gle/w3CG84JcDLm22fAT7

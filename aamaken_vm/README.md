@@ -22,5 +22,6 @@ Als je Virtualbox opstart krijg je onderstaand scherm te zien (zonder de DevVM e
 - [ ] In het volgende scherm kun je `Dynamicly Allocated` selecteren wat er voor zorgt dat niet meteen de volledige 10GB gebruikt wordt op de host machine.
 - [ ] Blijf dit doorlopen tot je klaar bent, je kunt overal de default instellingen gebruiken.
 
+>  :tomato: Ik ontvang graag feedback over deze sessie, je kunt het hier achterlaten: https://forms.gle/w3CG84JcDLm22fAT7
 
 :thumbsup: Volgende hoofdstuk [Ubuntu installeren](../install_ubuntu/) :fast_forward:
